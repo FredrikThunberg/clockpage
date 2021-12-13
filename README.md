@@ -1,6 +1,7 @@
 ## Clockpage
 
-so this is a simple page with a clock, and you can write your name and what you need to focus on :)
+so this is a simple page with a clock, and you can write your name and what you need to focus on,
+and it changes background img at certain times :)
 
 
 ## First visit
